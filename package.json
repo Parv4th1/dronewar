@@ -1,7 +1,7 @@
 {
   "name": "dronewar",
   "version": "0.1.0",
-  "homepage": "https://gitname.github.io/react-gh-pages",
+  "homepage": "https://Parv4th1.github.io/dronewar",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
@@ -37,5 +37,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
   }
 }
