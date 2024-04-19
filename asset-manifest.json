@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.52525a1f.css",
-    "main.js": "/react-gh-pages/static/js/main.773e304f.js",
-    "static/js/453.5ae6e297.chunk.js": "/react-gh-pages/static/js/453.5ae6e297.chunk.js",
-    "static/media/explosion.gif": "/react-gh-pages/static/media/explosion.0ea7714e7c415a7dc5e2.gif",
-    "static/media/drone.gif": "/react-gh-pages/static/media/drone.82ca1840209f64529f93.gif",
-    "static/media/target.gif": "/react-gh-pages/static/media/target.69c90dabec1ba5e353d3.gif",
-    "index.html": "/react-gh-pages/index.html",
-    "main.52525a1f.css.map": "/react-gh-pages/static/css/main.52525a1f.css.map",
-    "main.773e304f.js.map": "/react-gh-pages/static/js/main.773e304f.js.map",
-    "453.5ae6e297.chunk.js.map": "/react-gh-pages/static/js/453.5ae6e297.chunk.js.map"
+    "main.css": "/dronewar/static/css/main.52525a1f.css",
+    "main.js": "/dronewar/static/js/main.957a3193.js",
+    "static/js/453.5ae6e297.chunk.js": "/dronewar/static/js/453.5ae6e297.chunk.js",
+    "static/media/explosion.gif": "/dronewar/static/media/explosion.0ea7714e7c415a7dc5e2.gif",
+    "static/media/drone.gif": "/dronewar/static/media/drone.82ca1840209f64529f93.gif",
+    "static/media/target.gif": "/dronewar/static/media/target.69c90dabec1ba5e353d3.gif",
+    "index.html": "/dronewar/index.html",
+    "main.52525a1f.css.map": "/dronewar/static/css/main.52525a1f.css.map",
+    "main.957a3193.js.map": "/dronewar/static/js/main.957a3193.js.map",
+    "453.5ae6e297.chunk.js.map": "/dronewar/static/js/453.5ae6e297.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.52525a1f.css",
-    "static/js/main.773e304f.js"
+    "static/js/main.957a3193.js"
   ]
 }
