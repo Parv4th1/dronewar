@@ -68,7 +68,7 @@ const ComputerBoard = ({computerBoardArray, setComputerBoardArray, droneAvailabl
                     },2000);
                 updatedComputerBoardArray[rowIndex][colIndex] = 3;
                 console.log('destroyed a tower');
-                setPlayHits(playHits+1);
+                setTimeout(()=>setPlayHits(playHits+1),2500);
             }
             setTimeout(()=>{computerShoot(possibleCompShots,setPossibleCompShots, playerBoarArray, setPlayerBoardArray, compHits, setCompHits, playHits, setPlayHits, winner, setWinner)},2000);
             setShoot('notshoot');
